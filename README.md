@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Vasanth
 - 🧬 I graduated from Rutgers University with a Biology degree in 2021
-
 - 👨🏽‍💻 I’ve since pivoted to learning more about software design, development, and deployment
-- 💻 I’m currently studying Computer Science at Rutgers University as a nontraditional student pursuing a second degree
-
+- 💻 I’m currently studying Computer Science at Rutgers University pursuing a second undergraduate degree
 - 🤝 Always free to meet new people 
 - 📫 Reach me at bvasanth18@gmail.com
 
