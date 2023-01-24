@@ -4,7 +4,7 @@
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanthbanumurthy/)
 - 🧬 I graduated from Rutgers University with a Biology degree in 2021
 - 💻 I’m currently studying Computer Science at Rutgers University
-- ----------------------------------Relevant Coursework----------------------------------
+- 📚 Relevant Coursework 📚
 - [Introduction To Computer Science](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-111-introduction-to-computer-science)
 - [Data Structures](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-112-data-structures)
 - [Data Management For Data Science](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-210-data-management-for-data-science)
