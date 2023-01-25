@@ -3,8 +3,8 @@
 - 🤝 Always free to meet new people 
 - 📫 Reach me at bvasanth18@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanthbanumurthy/)
-- 🧬 I graduated from Rutgers University with a Biology degree in 2021
-- 💻 I’m currently studying Computer Science at Rutgers University
+- 🧬 I graduated from Rutgers University with a biology degree in 2021
+- 💻 I’m currently studying computer science at Rutgers University
 - 📚 Relevant Coursework 📚
 - [Introduction To Computer Science](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-111-introduction-to-computer-science)
 - [Data Structures](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-112-data-structures)
