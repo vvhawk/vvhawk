@@ -15,6 +15,7 @@
 - [Discrete Mathematics](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-205-introduction-to-discrete-structures-i)
 - [Software Methodology](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-213-software-methodology)
 - [Software Engineering](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-431-software-engineering)
+- 🕸️ I'm currently studying web development at [The Odin Project](https://www.theodinproject.com)
 
 
 
