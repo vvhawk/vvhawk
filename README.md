@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Vasanth
-- 📝 My featured projects are pinned below
+- 🏗️ My featured projects are pinned below
+- 📝 My [Resume](https://drive.google.com/file/d/1KQBSIEcpAxsHVee51yQZ-Lxd97vCBjS1/view?usp=sharing)
 - 🤝 Always free to meet new people 
 - 📫 Reach me at bvasanth18@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanthbanumurthy/)
