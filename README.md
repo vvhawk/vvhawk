@@ -17,6 +17,7 @@
 - [Software Methodology](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-213-software-methodology)
 - [Software Engineering](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-431-software-engineering)
 - 🕸️ I'm currently studying Web Development at [The Odin Project](https://www.theodinproject.com)
+- 🤖 I'm currently studying Android Development at [CodePath](https://www.codepath.org/courses/android-development)
 
 
 
