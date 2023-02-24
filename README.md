@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vasanth
 - 📝 Here's my [Resume](https://drive.google.com/file/d/1KQBSIEcpAxsHVee51yQZ-Lxd97vCBjS1/view?usp=sharing)
-- 🏗️ My featured projects include ([Photo Library](https://github.com/vvhawk/photo-library-app/blob/main/README.md), [Band Website](https://github.com/vvhawk/band-website/blob/main/README.md), [Election Analysis](https://github.com/vvhawk/election-analysis/blob/main/README.md), [UNIX Commands](https://github.com/vvhawk/UNIX-commands/blob/main/README.md)) 
--> repositories with code pinned below
+- 🏗️ My featured projects include ([Photo Library](https://github.com/vvhawk/photo-library-app), [Band Website](https://github.com/vvhawk/band-website), [Election Analysis](https://github.com/vvhawk/election-analysis), [UNIX Commands](https://github.com/vvhawk/UNIX-commands))
 - 🤝 Always free to meet new people 
 - 📫 Reach me at bvasanth18@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanthbanumurthy/)
