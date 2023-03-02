@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vasanth
 - 📝 Here's my [Resume](https://drive.google.com/file/d/1KQBSIEcpAxsHVee51yQZ-Lxd97vCBjS1/view?usp=sharing)
 - 🏗️ My featured projects: [Photo Library](https://github.com/vvhawk/photo-library-app), [Band Website](https://github.com/vvhawk/band-website), [Election Analysis](https://github.com/vvhawk/election-analysis), [UNIX Commands](https://github.com/vvhawk/UNIX-commands)
-- 🛠️ Other Projects: [Weather API](https://github.com/vvhawk/weather-api)
+- 🛠️ Other Projects: [fordle](https://github.com/vvhawk/fourdle), [Weather API](https://github.com/vvhawk/weather-api)
 - 🤝 Always free to meet new people 
 - 📫 Reach me at bvasanth18@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanthbanumurthy/)
