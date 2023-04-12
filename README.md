@@ -2,7 +2,7 @@
 - 📝 Here's my [Resume](https://drive.google.com/file/d/17Vjxa_tzkkEbsY3lgcgl59-BtuUg8NUC/view?usp=sharing)
 - 🏗️ My featured projects: [Photo Library](https://github.com/vvhawk/photo-library-app), [Band Website](https://github.com/vvhawk/band-website), [Election Analysis](https://github.com/vvhawk/election-analysis), [UNIX Commands](https://github.com/vvhawk/UNIX-commands)
 - 🛠️ Ongoing Projects: [Fourdle](https://github.com/vvhawk/fourdle)
-- - 🛠️ Other Projects:[Weather API](https://github.com/vvhawk/weather-api)
+- 🚧 Other Projects: [Weather API](https://github.com/vvhawk/weather-api)
 - 🤝 Always free to meet new people 
 - 📫 Reach me at bvasanth18@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanthbanumurthy/)
