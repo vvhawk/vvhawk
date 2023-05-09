@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vasanth
 - 📝 Here's my [Resume](https://drive.google.com/file/d/17Vjxa_tzkkEbsY3lgcgl59-BtuUg8NUC/view?usp=sharing)
-- 🏗️ Featured Projects: [Photo Library](https://github.com/vvhawk/photo-library-app), [Band Website](https://github.com/vvhawk/band-website), [Election Analysis](https://github.com/vvhawk/election-analysis), [UNIX Commands](https://github.com/vvhawk/UNIX-commands)
-- 🛠️ Ongoing Projects: [Fourdle](https://github.com/vvhawk/fourdle), [Fresh Carrots](https://github.com/vvhawk/fresh-carrots), [Emojo](https://github.com/vvhawk/mood-ring)
-- 🚧 Other Projects: [Weather API](https://github.com/vvhawk/weather-api)
+- 🏗️ Featured Projects: [Photo Library](https://github.com/vvhawk/photo-library-app), [Election Analysis](https://github.com/vvhawk/election-analysis)
+- 🛠️ Ongoing Projects: [Fourdle](https://github.com/vvhawk/fourdle), [Emojo](https://github.com/vvhawk/mood-ring)
+- 🚧 Other Projects: [Band Website](https://github.com/vvhawk/band-website), [UNIX Commands](https://github.com/vvhawk/UNIX-commands), [Weather API](https://github.com/vvhawk/weather-api), [Fresh Carrots](https://github.com/vvhawk/fresh-carrots)
 - 🤝 Always free to meet new people 
 - 📫 Reach me at bvasanth18@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanthbanumurthy/)
