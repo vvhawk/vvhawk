@@ -26,12 +26,13 @@
 - [Discrete Mathematics](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-205-introduction-to-discrete-structures-i)
 - [Software Methodology](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-213-software-methodology)
 - [Software Engineering](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-431-software-engineering)
+- [Design and Analysis of Computer Algorithms](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms)
 
 <h2 align="center">EXPERIENCE</h2> 
 
 - 🤖 I'm a [CodePath](https://www.codepath.org/courses/android-development) certified Android Developer
 - 🕸️ I'm currently learning Web Development at [The Odin Project](https://www.theodinproject.com)
-- 🍎 I'm currently learning iOS Development at [Hacking With Swift](https://www.hackingwithswift.com/)
+- 🍎 I'm currently learning iOS Development at [Hacking With Swift](https://www.hackingwithswift.com/) and [CodePath](https://www.codepath.org/courses/ios-development)
 
 
 
