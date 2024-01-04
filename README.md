@@ -1,7 +1,7 @@
 <h2 align="center">WELCOME</h2>
 
 - 👋 Hi, I’m Vasanth
-- 📝 Here's my [Resume](https://drive.google.com/file/d/17Vjxa_tzkkEbsY3lgcgl59-BtuUg8NUC/view?usp=sharing)
+- 📝 Here's my [Resume](https://drive.google.com/file/d/1gG5gFIiynHHlRPvGQbWnj2qEDHsx1EFq/view?usp=sharing)
 - 🏗️ Featured Projects: [Swipetunes](https://github.com/vvhawk/swipetunes), [Photo Library](https://github.com/vvhawk/photo-library-app), [myAudiofiler](https://github.com/vvhawk/myaudiofiler), [Election Analysis](https://github.com/vvhawk/election-analysis)
 - 🛠️ Ongoing Projects: [Fourdle](https://github.com/vvhawk/fourdle), [Emojo](https://github.com/vvhawk/mood-ring), [Fresh Carrots](https://github.com/vvhawk/fresh-carrots)
 - 🚧 Other Projects: [Band Website](https://github.com/vvhawk/band-website), [UNIX Commands](https://github.com/vvhawk/UNIX-commands), [Weather API](https://github.com/vvhawk/weather-api)
@@ -14,8 +14,11 @@
 
 <h2 align="center">EDUCATION</h2> 
 
-- 🧬 I graduated from Rutgers University with a Biology degree in 2021. Here are the [highlights](https://drive.google.com/file/d/1Pc6EUy1iW4-hQpqHJOucBC1_PrZ64XyE/view?usp=sharing)!
-- 💻 I’m currently studying Computer Science at [Rutgers University](https://www.cs.rutgers.edu/)
+- 🖥️ **2024 - Current**
+- Georgia Institute of Technology, Master of Science in [Computer Science](https://omscs.gatech.edu/) (Specialization: [Human-Computer Interaction](https://omscs.gatech.edu/specialization-human-computer-interaction))
+  
+- 💻 **2021 - 2023**
+- Rutgers University, Bachelor of Arts in [Computer Science](https://www.cs.rutgers.edu/).
 - 📚 Relevant Coursework 📚
 - [Introduction To Computer Science](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-111-introduction-to-computer-science)
 - [Data Structures](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-112-data-structures)
@@ -27,6 +30,10 @@
 - [Software Methodology](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-213-software-methodology)
 - [Software Engineering](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-431-software-engineering)
 - [Design and Analysis of Computer Algorithms](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms)
+  
+- 🧬 **2017 - 2021**
+-  Rutgers University, Bachelor of Arts in [Biological Sciences](https://biology.rutgers.edu/). Here are the [highlights](https://drive.google.com/file/d/1Pc6EUy1iW4-hQpqHJOucBC1_PrZ64XyE/view?usp=sharing)!
+
 
 <h2 align="center">EXPERIENCE</h2> 
 
