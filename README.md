@@ -37,9 +37,9 @@
 
 <h2 align="center">EXPERIENCE</h2> 
 
-- 🤖 I'm a [CodePath](https://www.codepath.org/courses/android-development) certified Android Developer
+- 🤖 I'm a [CodePath](https://www.codepath.org/about) certified [Android](https://www.codepath.org/courses/android-development) and [iOS](https://www.codepath.org/courses/ios-development) Developer
 - 🕸️ I'm currently learning Web Development at [The Odin Project](https://www.theodinproject.com)
-- 🍎 I'm currently learning iOS Development at [Hacking With Swift](https://www.hackingwithswift.com/) and [CodePath](https://www.codepath.org/courses/ios-development)
+- 🍎 I'm further studying iOS Development at [Hacking With Swift](https://www.hackingwithswift.com/) 
 
 
 
