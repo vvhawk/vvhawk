@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m Vasanth
 - 📝 Here's my [Resume](https://drive.google.com/file/d/1gG5gFIiynHHlRPvGQbWnj2qEDHsx1EFq/view?usp=sharing)
-- 🏗️ Featured Projects: [Swipetunes](https://github.com/vvhawk/swipetunes), [Photo Library](https://github.com/vvhawk/photo-library-app), [myAudiofiler](https://github.com/vvhawk/myaudiofiler), [Election Analysis](https://github.com/vvhawk/election-analysis)
-- 🛠️ Ongoing Projects: [Fourdle](https://github.com/vvhawk/fourdle), [Emojo](https://github.com/vvhawk/mood-ring), [Fresh Carrots](https://github.com/vvhawk/fresh-carrots)
-- 🚧 Other Projects: [Band Website](https://github.com/vvhawk/band-website), [UNIX Commands](https://github.com/vvhawk/UNIX-commands), [Weather API](https://github.com/vvhawk/weather-api)
+- 🏗️ Featured Projects: [Spotify Car Mode Redesign](https://github.com/vvhawk/spotify-car-mode-redesign), [Swipetunes](https://github.com/vvhawk/swipetunes), [Photo Library](https://github.com/vvhawk/photo-library-app), [myAudiofiler](https://github.com/vvhawk/myaudiofiler)
+- 🛠️ Starter Projects: [Fourdle](https://github.com/vvhawk/fourdle), [Emojo](https://github.com/vvhawk/mood-ring), [Fresh Carrots](https://github.com/vvhawk/fresh-carrots)
+- 🚧 Other Projects: [Band Website](https://github.com/vvhawk/band-website), [UNIX Commands](https://github.com/vvhawk/UNIX-commands), [Weather API](https://github.com/vvhawk/weather-api), [Election Analysis](https://github.com/vvhawk/election-analysis)
 
 <h2 align="center">CONTACT ME</h2>  
 
