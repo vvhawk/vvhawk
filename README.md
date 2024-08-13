@@ -16,6 +16,13 @@
 
 - 🖥️ **2024 - Current**
 - Georgia Institute of Technology, Master of Science in [Computer Science](https://omscs.gatech.edu/) (Specialization: [Human-Computer Interaction](https://omscs.gatech.edu/specialization-human-computer-interaction))
+- 📚 Relevant Coursework 📚
+- [Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction)
+- [Video Game Design](https://omscs.gatech.edu/cs-6457-video-game-design)
+- [Game AI](https://omscs.gatech.edu/cs-7632-game-ai)
+- [Robotics: AI Techniques](https://omscs.gatech.edu/cs-7638-robotics-ai-techniques)
+
+
   
 - 💻 **2021 - 2023**
 - Rutgers University, Bachelor of Arts in [Computer Science](https://www.cs.rutgers.edu/).
