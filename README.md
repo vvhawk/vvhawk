@@ -1,7 +1,7 @@
 <h2 align="center">WELCOME</h2>
 
 - 👋 Hi, I’m Vasanth
-- 📝 Here's my [Resume](https://drive.google.com/file/d/1eKKJFGxJRMfjdrHATP5c0bK0BfADDj5D/view?usp=sharing)
+- 📝 Here's my [Resume](https://drive.google.com/file/d/1-4R-Tiw2raq9Xg5Yf0sHLZF0J1bMB-JE/view?usp=sharing)
 - ✨ Recent Projects: [JoyTone](https://github.com/vvhawk/joytone-arduino), [StepSense](https://github.com/vvhawk/step-sense)
 - 🏗️ Featured Projects: [Castle Cruisers](https://github.com/vvhawk/castle-cruisers), [Spotify Car Mode Redesign](https://github.com/vvhawk/spotify-car-mode-redesign), [Swipetunes](https://github.com/vvhawk/swipetunes), [SnapVault](https://github.com/vvhawk/photo-library-app), [myAudiofiler](https://github.com/vvhawk/myaudiofiler)
 - 🛠️ Starter Projects: [Fourdle](https://github.com/vvhawk/fourdle), [Emojo](https://github.com/vvhawk/mood-ring), [Fresh Carrots](https://github.com/vvhawk/fresh-carrots)
