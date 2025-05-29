@@ -20,9 +20,11 @@
 - 📚 Relevant Coursework 📚
 - [Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction)
 - [Video Game Design](https://omscs.gatech.edu/cs-6457-video-game-design)
+- [Foundations of Computer Graphics](https://omscs.gatech.edu/cs-6491-foundations-computer-graphics)
 - [Game AI](https://omscs.gatech.edu/cs-7632-game-ai)
 - [Robotics: AI Techniques](https://omscs.gatech.edu/cs-7638-robotics-ai-techniques)
 - [Mobile & Ubiquitous Computing](https://omscs.gatech.edu/cs-7470-mobile-ubiquitous-computing)
+- [Quantum Computing](https://omscs.gatech.edu/cs-7400-quantum-computing)
 - [Digital Health Equity](https://omscs.gatech.edu/cs-6435-digital-health-equity)
 
 
